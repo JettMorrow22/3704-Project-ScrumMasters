@@ -2,9 +2,9 @@
 3704 Software Development and Engineering
 
 # Team Members
-Jett Morrow
-Lucas Kazem
-Shuban Sridhar 
+Jett Morrow,
+Lucas Kazem,
+Shuban Sridhar, 
 Richmond Southall
 
 # Project Description
